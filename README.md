@@ -22,3 +22,4 @@ Protex users can use Black Duck to view and manage security vulnerabilities in t
 Docs:https://community.synopsys.com/s/document-item?bundleId=bd-hub&topicId=Welcome.html&_LANG=enus
 
 Github link:https://github.com/blackducksoftware
+Blackduck can integrate with backstage https://github.com/deepan10/backstage-plugin-blackduck
