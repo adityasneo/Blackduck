@@ -1,6 +1,11 @@
 # Blackduck
-Opensource 
-DevSecOps--Build fast and Stay Secure
+Open Source Software
+Blackduck will integrate the DevOps tool to provide automated security and control open source gives the accelerated detection protection management and moitoring so we need DevSecOps
+Build fast and Stay Secure
+Detecting and Preventing  deployment of vulnerable applications and containers
+continuously monitoring for and alert for newly reported vulernabilites impact the apps that was already deployed 
+Doc:https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html
+
 Black Duck, a Software Composition Analysis (SCA) tool, helps with managing the supply chain of software, understanding the third-party components in use and minimizing risks from known vulnerabilities and licensing. Black Duck is a comprehensive solution for supply chain management, based primarily on source analysis.
 
 Using Black Duck, you can:
