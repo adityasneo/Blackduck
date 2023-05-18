@@ -10,6 +10,8 @@ continuously monitoring for and alert for newly reported vulernabilites impact t
 
 Security,quality and license risk
 
+to scan our packages in the CI/CD pipelines and to be able to stop deployments if there were serious vulnerabilities that might affect us and/or our customers 
+
 Doc:https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html
 
 Black Duck, a Software Composition Analysis (SCA) tool, helps with managing the supply chain of software, understanding the third-party components in use and minimizing risks from known vulnerabilities and licensing. Black Duck is a comprehensive solution for supply chain management, based primarily on source analysis.
@@ -31,3 +33,5 @@ Docs:https://community.synopsys.com/s/document-item?bundleId=bd-hub&topicId=Welc
 Github link:https://github.com/blackducksoftware
 
 Blackduck can integrate with backstage https://github.com/deepan10/backstage-plugin-blackduck
+
+To Take Black Duck Product tour go to the website https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html and click on Product Tour
