@@ -4,7 +4,7 @@ Blackduck will integrate the DevOps tool to provide automated security and contr
 
 Build fast and Stay Secure
 
-Detecting and Preventing  deployment of vulnerable applications and containers
+Detecting and Preventing  deployment of vulnerable applications,containers and infrastructure-as-code
 
 continuously monitoring for and alert for newly reported vulernabilites impact the apps that was already deployed
 
@@ -34,4 +34,4 @@ Github link:https://github.com/blackducksoftware
 
 Blackduck can integrate with backstage https://github.com/deepan10/backstage-plugin-blackduck
 
-To Take Black Duck Product tour go to the website https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html and click on Product Tour
+To Know how Black Duck works go to the website https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html and click on Product Tour
