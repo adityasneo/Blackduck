@@ -25,6 +25,7 @@ View vulnerabilities that have been identified in open source components.
 Assess your security, license, and operational risk.
 
 Protex users can use Black Duck to view and manage security vulnerabilities in their existing BOMs
+
 Docs:https://community.synopsys.com/s/document-item?bundleId=bd-hub&topicId=Welcome.html&_LANG=enus
 
 Github link:https://github.com/blackducksoftware
