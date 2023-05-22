@@ -1,1 +1,8 @@
 # Install Steps
+
+https://github.com/blackducksoftware/hub/tree/master/kubernetes/blackduck
+
+If Custom TLS Secret are not using use the below command
+
+helm install ${BD_NAME} synopsys/blackduck --namespace ${BD_NAME} --no-hooks
+Source:https://github.com/cert-manager/cert-manager/issues/5217#issuecomment-1157783671
