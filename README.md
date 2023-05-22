@@ -37,3 +37,5 @@ Github link:https://github.com/blackducksoftware
 Blackduck can integrate with backstage https://github.com/deepan10/backstage-plugin-blackduck
 
 To Know how Black Duck works go to the website https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html and click on Product Tour
+
+Project:https://community.synopsys.com/s/article/Black-Duck-Creating-Projects
