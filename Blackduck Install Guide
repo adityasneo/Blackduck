@@ -5,3 +5,6 @@ helm install ${BD_NAME} synopsys/blackduck --namespace default --no-hooks
 Source:https://github.com/cert-manager/cert-manager/issues/5217#issuecomment-1157783671
 
 kubectl config set-context --current --namespace=my-namespace
+
+Follow the pdf for 
+https://testing.blackduck.synopsys.com/doc/pdfs/install_kubernetes.pdf
