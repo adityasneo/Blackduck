@@ -8,3 +8,5 @@ kubectl config set-context --current --namespace=my-namespace
 
 Follow the pdf for 
 https://testing.blackduck.synopsys.com/doc/pdfs/install_kubernetes.pdf
+Repo
+https://sig-repo.synopsys.com/artifactory/sig-cloudnative/
